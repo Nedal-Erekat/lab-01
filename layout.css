@@ -1,14 +1,5 @@
 @media screen and (min-width:480px) and (max-width:767px){
-    
-    div{
-        background-color: #eee;
-        margin: auto;
-        border: 1px solid black;
-        border-bottom: none;
-        box-sizing: border-box;
-       
-
-    }
+   
     #a{
         width: 480px;
         height:75px;  
@@ -49,20 +40,15 @@
 
 }
 
+
 @media screen and (min-width:768px) and (max-width:960px){
-body{
-    background-color: rgb(221, 221, 134);
-}
-main{
-    width: 960px;
-    height: 700px;
-}
-div{
-    background-color: #eee;
-    border: 1px solid black;
-    box-sizing: border-box;
-    /* float: left; */
-}
+
+    main{
+        width: 960px;
+        height: 700px;
+    }
+
+    
 #a{
     width: 960px;
     height:100px;
@@ -70,18 +56,14 @@ div{
     
 }
 #container1{
-    /* display: inline-block; */
-    float: left;
     width: 760px;
     height:200px;
-    background-color: blue;
     border: none;
 }
 
 #b{
    width: 200px;
    height: 600px; 
-   float: left;
    
 }
 #c,#d{
@@ -89,22 +71,18 @@ div{
     height:200px;
     border-left: none;
     border-bottom: none;
-    /* display: inline-block; */
-    float: left;
 
 }
 #container{
     overflow: hidden;
     width: 760px;
     border: none;
-    float: left;
 
 
 }
 #e,#f,#g,#h{
     width: 190px;
     height:250px;
-    float: left;
     border-left: none;
 
 }
@@ -113,7 +91,7 @@ div{
     border-left: none;
     width: 760px;
     height: 150px;
-    float: left;
 }
+
 
 }
