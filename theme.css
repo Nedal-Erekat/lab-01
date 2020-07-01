@@ -42,7 +42,8 @@
         background-color: #eee;
         border: 1px solid black;
         box-sizing: border-box;
-        float: left;
+        /* float: left; */
+        
     }
     #a{
         background-color:rgb(152, 152, 250) ;
