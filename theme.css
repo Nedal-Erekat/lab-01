@@ -2,7 +2,6 @@
     
     div{
         background-color: #eee;
-        margin: auto;
         border: 1px solid black;
         border-bottom: none;
         box-sizing: border-box;
@@ -41,8 +40,9 @@
     div{
         background-color: #eee;
         border: 1px solid black;
-        box-sizing: border-box;
-        float: left;
+        /* box-sizing: border-box; */
+        /* float: left; */
+        
     }
     #a{
         background-color:rgb(152, 152, 250) ;
